@@ -1,1 +1,1 @@
-# Code implementing the Jackwerth methodology for implied volatility interpolation
+# Jackwerth methodology for implied volatility interpolation
